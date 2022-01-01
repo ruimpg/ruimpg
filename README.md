@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ruimpg
-- 👀 I’m interested in collaborative programming
+- 👋 Hi, I’m ruimpg
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning several languages: Python, React
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: rui.mp.goncalves@gmail.com
 
 <!---
